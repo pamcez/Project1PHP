@@ -1,0 +1,4 @@
+[31-Jan-2015 15:27:43 Pacific/Auckland] PHP Fatal error:  Class 'view' not found in /home/pamfilocecilia/public_html/_Assignments/WE03/public_html/WWW/views/loginView.php on line 3
+[31-Jan-2015 15:28:42 Pacific/Auckland] PHP Fatal error:  Class 'view' not found in /home/pamfilocecilia/public_html/_Assignments/WE03/public_html/WWW/views/loginView.php on line 3
+[17-Feb-2015 16:23:34 Pacific/Auckland] PHP Fatal error:  Class 'view' not found in /home/pamfilocecilia/public_html/_Assignments/WE03/public_html/WWW/views/centre.php on line 3
+[03-May-2015 20:39:04 Pacific/Auckland] PHP Fatal error:  Class 'view' not found in /home/pamfilocecilia/public_html/_Assignments/WE03/public_html/WWW/views/contactView.php on line 3
